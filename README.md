@@ -6,14 +6,14 @@
 ## Code
 ### First of all, you need to enable SPI in raspberry pi, for this you need to go  ```sudo raspi-config ``` then go to "interface options->SPI->yes->press enter" 
 There are two folder in GitHub repository
- * E_Paper_HAT (Black & White Color)
+ * E_Paper_Breakout (Black & White Color)
    * e_paper_2_7.py        -> Run this file
-   * lib_2inch7_e_paper.py -> Library of 2.7 inch e-paper HAT
+   * lib_2inch7_e_paper.py -> Library of 2.7 inch e-paper breakout
    * e_paper_2_7_rfid.py   -> Run this file if you want to connect RFID HAT (application)
    
- * Red_Color_E_Paper_HAT (Red & Black Color)
+ * Red_Color_E_Paper_Breakout (Red & Black Color)
    * e_paper_2in7_redColor.py  -> Run this file 
-   * lib_2inch7_ec_paper.py    -> Library of 2.7 inch e-paper red color HAT
+   * lib_2inch7_ec_paper.py    -> Library of 2.7 inch e-paper red color Breakout
    * e_paper_2in7_color_air.py -> Run this file if you want to display values of Air monitoring HAT or breakout (application)
    * pms_a003.py               -> Library of air monitoring HAT or breakout
    
