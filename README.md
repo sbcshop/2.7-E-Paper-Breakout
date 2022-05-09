@@ -11,7 +11,7 @@ There are two folder in GitHub repository
    * lib_2inch7_e_paper.py -> Library of 2.7 inch e-paper breakout
    * e_paper_2_7_rfid.py   -> Run this file if you want to connect RFID HAT (application)
    
- * Red_Color_E_Paper_Breakout (Red & Black Color)
+ * Paper_Red_Color (Red & Black Color)
    * e_paper_2in7_redColor.py  -> Run this file 
    * lib_2inch7_ec_paper.py    -> Library of 2.7 inch e-paper red color Breakout
    * e_paper_2in7_color_air.py -> Run this file if you want to display values of Air monitoring HAT or breakout (application)
