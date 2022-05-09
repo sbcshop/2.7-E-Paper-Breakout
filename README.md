@@ -6,7 +6,7 @@
 ## Code
 ### First of all, you need to enable SPI in raspberry pi, for this you need to go  ```sudo raspi-config ``` then go to "interface options->SPI->yes->press enter" 
 There are two folder in GitHub repository
- * E_Paper_Breakout (Black & White Color)
+ * E_Paper_B&W (Black & White Color)
    * e_paper_2_7.py        -> Run this file
    * lib_2inch7_e_paper.py -> Library of 2.7 inch e-paper breakout
    * e_paper_2_7_rfid.py   -> Run this file if you want to connect RFID HAT (application)
