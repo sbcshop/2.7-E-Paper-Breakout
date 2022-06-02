@@ -8,7 +8,7 @@
 
 ## Connections
 
-<img src= "https://github.com/sbcshop/2.7-E-Paper-Breakout/blob/main/images/img2.jpg" />
+<img src= "https://github.com/sbcshop/2.7-E-Paper-Breakout/blob/main/images/img2.JPG" />
 
 ## Code
 ### First of all, you need to enable SPI in raspberry pi, for this you need to go ```sudo raspi-config ``` then go to "interface options->SPI->yes->press enter" There are two folder in GitHub repository
