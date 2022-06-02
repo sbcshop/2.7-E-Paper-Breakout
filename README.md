@@ -23,3 +23,8 @@
    * e_paper_2in7_color_air.py -> Run this file if you want to display values of Air monitoring HAT or breakout (application)
    * pms_a003.py               -> Library of air monitoring HAT or breakout
    
+## For e-paper datasheet go below link:-
+
+https://www.good-display.com/product/236.html
+
+https://www.good-display.com/product/235.html
